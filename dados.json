@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "placa_caminhao": "ABC1234",
+      "fornecedor": "002766",
+      "nomefornecedor": "PROGERAL IND.ARTEF.PLASTICOS LTDA.",
+      "produto": "1184010006",
+      "descricaoproduto": "ABRACADEIRA JAN 19,8X0,6X7,0",
+      "quantidade": 10
+    },
+    {
+      "placa_caminhao": "ABC1234",
+      "fornecedor": "002766",
+      "nomefornecedor": "PROGERAL IND.ARTEF.PLASTICOS LTDA.",
+      "produto": "1186010002",
+      "descricaoproduto": "ABRACADEIRA SPACE SAVER Ø27 X 12MM",    
+      "quantidade": 10
+    },
+    {
+      "placa_caminhao": "ABC1234",
+      "fornecedor": "002766",
+      "nomefornecedor": "PROGERAL IND.ARTEF.PLASTICOS LTDA.",
+      "produto": "1186010002",
+      "descricaoproduto": "PAPEL",
+      "quantidade": 10
+    },
+    {
+      "placa_caminhao": "OTM2022",
+      "fornecedor": "002766",
+      "nomefornecedor": "PROGERAL IND.ARTEF.PLASTICOS LTDA.",
+      "produto": "1186010502",
+      "descricaoproduto": "PLASTICO",
+      "quantidade": 10
+    },
+   {
+    "placa_caminhao": "OTM2022",
+    "fornecedor": "002766",
+    "nomefornecedor": "PROGERAL IND.ARTEF.PLASTICOS LTDA.",
+    "produto": "1186010500",
+    "descricaoproduto": "TECLADOS",
+    "quantidade": 10
+  },
+  {
+    "placa_caminhao": "OTM2022",
+    "fornecedor": "002766",
+    "nomefornecedor": "PROGERAL IND.ARTEF.PLASTICOS LTDA.",
+    "produto": "1186012502",
+    "descricaoproduto": "MOUSE",
+    "quantidade": 10
+  }
+  ]
+}
